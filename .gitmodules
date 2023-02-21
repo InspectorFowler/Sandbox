@@ -1,0 +1,3 @@
+[submodule "hugo-playground/quickstart/themes/congo"]
+	path = hugo-playground/quickstart/themes/congo
+	url = https://github.com/jpanther/congo
